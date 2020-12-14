@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "~ngx-toastr/toastr";
+
+
+.bg-colour {
+    background-image: linear-gradient(#b30086, purple);
+  }
+
+  .border {
+    border: 1px solid purple !important;
+}

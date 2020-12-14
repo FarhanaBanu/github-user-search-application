@@ -1,0 +1,14 @@
+.btn-bg {
+    /* background-image: linear-gradient(#b30086, purple); */
+    background-color: purple !important;
+    color:white !important;
+
+  }
+
+  button:active{
+    border: 1px solid #fff !important;
+}
+
+button:focus{
+    border: 1px solid #fff !important;
+}
